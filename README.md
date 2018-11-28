@@ -1,4 +1,4 @@
-Calculator
+Calculadora
 ---
 <img src="Logotype primary.png" width="60%" height="60%" />
 
@@ -6,21 +6,21 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 
 
 
-Try It
+Acesse
 ---
 
 [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
 
 
 
-Install
+Instale
 ---
 
 `npm install`
 
 
 
-Usage
+Uso
 ---
 
 `npm start`
